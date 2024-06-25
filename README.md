@@ -5,3 +5,4 @@ Welcome to the PizzaPie website repository! This project showcases a modern and 
     CSS: Styling language used for layout and design.
     JavaScript: Programming language used for interactive elements and real-time updates.
 Visit the website by clicking the following link[PizzaPie]: (https://aryanraj03.github.io/Pizza-Shop/)
+### **Made with :heart: by Aryan Raj Upadhyay**
