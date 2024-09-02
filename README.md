@@ -46,9 +46,12 @@ To run the project locally:
    ```
 
 ## 📸 Screenshots
-
-![Landing Page](https://your-screenshot-url.com/landing-page.png)
 *Screenshot of the landing page showing the hero section and navigation.*
+*Light Mode*
+![Landing Page(Light Mode](Screenshot1.png)
+*Dark Mode*
+![Landing Page(Dark Mode](Screenshot2.png)
+
 
 ## 📄 License
 
