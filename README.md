@@ -1,5 +1,5 @@
 
-# 🍕 Responsive Pizza Landing Page
+# 🍕 PizzaPie - The Pizza Shop
 
 This project is a responsive landing page for a fictional pizza restaurant called **Pizza Pie**. The page is designed to be clean, modern, and user-friendly, offering visitors a visually appealing experience across all devices.
 
@@ -34,11 +34,11 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pizza-landing-page.git
+   git clone https://github.com/AryanRaj03/Pizza-Shop.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd pizza-landing-page
+   cd Pizza-Shop
    ```
 3. Open `index.html` in your preferred web browser:
    ```bash
@@ -53,21 +53,11 @@ To run the project locally:
 ![Landing Page(Dark Mode](Screenshot2.png)
 
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
 ## 📧 Contact
 
 For any inquiries, please reach out to:
 - **Name:** Aryan Raj
 - **Email:** uraryan03@gmail.com
-- **Twitter:** [@AryanR_Upadhyay](https://x.com/AryanR_Upadhyay)
 
 ---
 
-<p align="center">© 2024 Pizza Pie - All Rights Reserved</p>
